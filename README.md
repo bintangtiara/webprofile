@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>website profile</title> 
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<div>
             <a href="Biodata.html"> Home </a>
