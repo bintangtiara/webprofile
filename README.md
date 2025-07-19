@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td><b>Alamat</b></td>
-<td>:   Jl. Medayu Selatan VII/21</td>
+<td>:   Surabaya</td>
 </tr>
 <tr>
 <td><b>NPM</b></td>
